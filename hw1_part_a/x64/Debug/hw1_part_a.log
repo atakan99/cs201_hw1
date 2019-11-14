@@ -1,0 +1,11 @@
+﻿  SimpleFC.cpp
+D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\SimpleFC.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\SimpleFC.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\SimpleFC.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\SimpleFC.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\SimpleFC.cpp(89,22): warning C4018: '<': signed/unsigned mismatch
+D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\SimpleFC.cpp(99,22): warning C4018: '<': signed/unsigned mismatch
+  SimpleFilm.cpp
+  Generating Code...
+D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\SimpleFC.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+  hw1_part_a.vcxproj -> D:\cs102_hws\hw1\hw1_part_a\hw1_part_a\x64\Debug\hw1_part_a.exe
