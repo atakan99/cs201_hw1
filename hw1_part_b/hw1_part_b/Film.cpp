@@ -7,9 +7,9 @@ Film::Film(const string fTitle, const string fDirector, const unsigned int fYear
 	director = fDirector;
 	year = fYear;
 	duration = fDuration;
-	noOfActors = NULL;
-	size = NULL;
-	actors = NULL;
+	noOfActors = 0;
+	size = 0;
+	actors = new Actor[size];
 }
 
 Film::Film(const Film& fToCopy)
