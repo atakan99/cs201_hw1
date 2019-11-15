@@ -2,9 +2,9 @@
 
 FC::FC()
 {
-size = NULL;
-noOfFilms = NULL;
-films = NULL;
+	size = 0;
+	noOfFilms = 0;
+	films = new Film[size];
 }
 
 FC::FC(const FC& fcToCopy)
