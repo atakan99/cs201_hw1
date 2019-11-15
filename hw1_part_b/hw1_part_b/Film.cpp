@@ -129,7 +129,10 @@ bool Film::addFilmActor(Actor& a)
 bool Film::removeFilmActors(const string fTitle, const string fDirector)
 {
 	if (actors) {
+		size = 0;
+		noOfActors = 0;
 		delete[] actors;
+		actors = new Actor[size];
 		return true;
 	}
 	else {
